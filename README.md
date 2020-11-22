@@ -1,7 +1,7 @@
 # Decorator-CompositePattern
 This application perform the functions of allowing the user to choose a coffee order, adding the additional options (or not) as the user specifies.
 
-Based on the user's specification the application calculates the price of the order and display to the user. 
+Based on the user's specification the application calculates the <b>price</b> of the order and <b>display</b> this to the user. 
 <h3> The available coffee and its options are: </h3>
 
 <b> Coffee </b>    
